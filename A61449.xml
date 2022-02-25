@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thoughts about promoting the interest of Christ's universal church</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61449</idno>
+            <idno type="STC">Wing S5444A</idno>
+            <idno type="STC">ESTC R222028</idno>
+            <idno type="EEBO-CITATION">99833267</idno>
+            <idno type="PROQUEST">99833267</idno>
+            <idno type="VID">37742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thoughts about promoting the interest of Christ's universal church</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>By Edward Stephens. Cf. Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Universalism --  Early works to 1800.</term>
+               <term>Church --  Unity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37742:1" rendition="simple:additions"/>
+            <head>Thoughts <hi>about promoting the</hi> Intereſt of Chriſt's Univerſal Church.</head>
+            <p>THE Intereſt of the Univerſal Church lyeth doubtleſs in the raiſing, inlarging and adorning of that myſtical building, which is called the City of God, Chriſts Spouſe, and Chriſts Body. As this Body is made up of ſuch members, as are animated by the vital Spirit, which Floweth from the Head, and linkes them together with one another as well, as with their Head, Chriſt, ſo real Chriſtianity is without doubt the main point of the Univerſal Church, and as real Chriſtianity ſpreads and improves, or ſhrinks and decayes, the Univerſal Church muſt be looked upon as flouriſhing or declining. Real Chriſtianity conſiſting in following the ſteps of our Saviour, and expreſſing by our life his pattern, as far as Divine Grace inables every one of us, we may term it, a reſſemblance to Chriſt, the reſtorer of Gods image in the ſoul of man, the Beginner and Fullfiller of our Faith. Now the nearer we reſſemble unto Chriſt, and the more there is of thoſe that reſſemble him, the more fully the glorious ends of his Goſpel are anſwered and the Univerſal Church advanced.</p>
+            <p>As abſurd as it is to think that Chriſt dyed for this or that ſect, and that heaven muſt be ſtocked onely out of one particular Church, nevertheleſs no<g ref="char:EOLhyphen"/>tions of Chriſtianity run ſo low, that the greateſt part fancy, Chriſtian Reli<g ref="char:EOLhyphen"/>gion is the performing of divine Wor<g ref="char:EOLhyphen"/>ſhip after this or that form, and hould<g ref="char:EOLhyphen"/>ing ſuch or ſuch opinions.</p>
+            <p>Which falſe ſuppoſition hath be<g ref="char:EOLhyphen"/>trayed ſome into Unchriſtian courſes againſt thoſe that differ from them, and occaſioned dolefull effects. Wherefore divers pious Souls have endeavored to heal the wounds of the Church, by reconciling the aforeſaid differences. It is but too much known how fruitleſs hitherto ſuch endeavours have proved. Nor can it be otherwiſe, as long as that poiſonous root of all diſſenſion remains in the Soul, namely the rebellious ſelfiſh tincture, contracted by the firſt man, in liſtening to te ſerpent, and ſo declin<g ref="char:EOLhyphen"/>ing from God to Satan, the Prince of Pride. It would not ſignifie much neither, if all the men in the world re<g ref="char:EOLhyphen"/>ſolved upon uſing the ſame expreſſions, and the ſame Church ſervice, con<g ref="char:EOLhyphen"/>tinuing all the while ſlaves to te King<g ref="char:EOLhyphen"/>dom of darkneſs. Whereas holyneſs or real Chriſtianity, ſincerily purſued in the ſeveral particular Churches, would approach people to that heavenly tem<g ref="char:EOLhyphen"/>per, to which jarring and diſquiet is a perfect ſtranger. Wherefore I am of opinion, that inſtead of ſtudying for confeſſions to be received by all partys, or arguing againſt one another's tenets, the differing partys ſhould vye with one another, who could produce moſt in<g ref="char:EOLhyphen"/>ſtances of ſuch as have in their Church arrived at the glorious renovation of Gods image in the Soul; which is the ſign and effect of that Faith, which
+<pb n="2" facs="tcp:37742:2"/>
+               <note n="(a)" place="bottom">1 Joh. V. 4.</note> overcomes the world, <note n="(b)" place="bottom">Eph. III. 17.</note> and by which Chriſt lives in us, inabling thoſe that receive him <note n="(c)" place="bottom">Joh. I. 12.</note> to become childern of God. Thoſe that <note n="(d)" place="bottom">2 Cor. V. 17.</note> are in Chriſt become ſuch new Creatures, and united with him, need not ſtudy for a confeſſion, whereby thy might be united, all of them together living as it were by one common Soul. Though the number of ſuch is very ſmall, nev<g ref="char:EOLhyphen"/>ertheleſs God hath ſome here and there, which in his infinite mercy he hath left as the ſalt of the earth. Theſe Few ought to be the more thank-full to that goodneſs, which hath ſnatch'd them out of the inundation of the Univerſal Corruption. The greateſt thankfulneſs to the great Donor of all good and per<g ref="char:EOLhyphen"/>fect gifts conſiſts in benefitting others by what we have received out of the unexhauſtible divine treaſure, to the glory of the Liberal Giver. Wherefore the aforeſaid proficients in real Chriſt<g ref="char:EOLhyphen"/>ianity will hardly make here on earth a better return to heavens Favors, than if they heartily beſtir themſelves, to com<g ref="char:EOLhyphen"/>municate unto others that divine na<g ref="char:EOLhyphen"/>ture, whereof in the new Creature they are made partakers.</p>
+            <p>After theſe premiſes I inferr, that the Intereſt of the Univerſal Church might be promoted, if the following points were heeded.</p>
+            <p n="1">(1.) Thoſe that are in authority ſhould ſtudy all poſſible means to pro<g ref="char:EOLhyphen"/>vide ſuch Guides for the people, as have an experimental knowledge of the above-mentioned real Chriſtianity, and can ſay with St. Paul: Follow me, as you ſee me follow Chriſt. At leaſt ut-moſt care ought to be taken that a Preacher my not bring a reproach or diſ<g ref="char:EOLhyphen"/>paragement upon his doctrine by his bad example. Perſons that have not themſelves recovered life by Chriſt, will hardly be able duely to lay before their hearers, what is the <note n="(e)" place="bottom">Eph. IV. 22.</note> Old man de<g ref="char:EOLhyphen"/>praved according to the deſires of the Deceit, and the <note n="(f)" place="bottom">Eph. IV. 24.</note> New man, who is created after God in Righteouſneſs and holyneſs of the truth; what it is to be dead in ſin, and to be reſuſcitated with Chriſt. Wherein nevertheleſs conſiſts preaching repentance and Faith, which two heads <note n="(g)" place="bottom">Act. XX. 21.</note> St. Paul rekones the chief towards the ſaving of Souls. Without this foundation, the learnedeſt diſcourſes will avail little towards the inlarging of Gods Kingdom; though they tickle the ears, get credit and eſteem to the Preacher, and fill the minds of the hearers with never ſo fine notions. Nay though they ſhould convince the auditory of the advan<g ref="char:EOLhyphen"/>tages of a good moral life, little will be practiſed, as long as the principle of diſobedience, ſelflove, and own will continueth the ſpring of the heart. At the beſt a good moral life is not yet Gods Righteouſneſs, <note n="(h)" place="bottom">2 Cor. V. 21.</note> which is the Scope of the Goſpel. Moral men are ſome times fallen into a conceit of themſelves, ſetting up their own righte<g ref="char:EOLhyphen"/>ouſneſs, for want of due inſtruction about the deplorable ſtate of corrupted nature, and the glorious advantage of a new birth from above, <note n="(i)" place="bottom">Phil. III 9.</note> which formeth Chriſt in us, and begetts at this rate Gods Righteouſneſs, which is by Faith.</p>
+            <p n="2">(2.) For the breeding many Guides duely qualifyed, it would be requiſite to order the Schools ſo, that a ſolid foundation for true wiſdome might be laid there, by inuring youth betimes to a ſincere regard to him, who is the
+<pb n="3" facs="tcp:37742:2"/>fountain of true underſtanding. For want hereof we find ſo many Schollars, that aim rather at fame, by being verſed in many hard authors, than at the glorifying of God, and advantaging their Neighbour by an experimental knowledge of the vaſt difference be<g ref="char:EOLhyphen"/>tween Living to God and Living to ourſelves. I have met with ſome that took more delight in giving an account of an old manuſcript, than in turning of a Soul from the world to heaven. Nor is it probable Heavens intereſt ſhould be heartily eſpouſed by thoſe, with whom the Love of the world bears the chief ſway. Though Provi<g ref="char:EOLhyphen"/>dence hath contrived it ſo wiſely, that ſome ſmart for their vanity in deſiring the reputation of vaſt Schollars, becauſe oftentimes they become unfit for think<g ref="char:EOLhyphen"/>ing right themſelves, by waſting their lives in cramming other mens notions into their brains.</p>
+            <p n="3">(3.) If, inſtead of railing at one another and preaching at this rate hatred rather than charity, the Clergy of all the particular Churches made it their onely buſineſs, to preach Repen<g ref="char:EOLhyphen"/>tance and Faith, according to the firſt Article, they would ſhew the more of an Apoſtolick Spirit, and reap the more fruit from their labors. I have often wondered at their taking more pleaſure in the making of Proſelytes to their Church, than in turning their own flock, from the world to heaven, and from the Slavery of the Prince of the world, to the glorious liberty of the Kingdom of God. He that hath a tenderneſs for the perſwaſion, he pro<g ref="char:EOLhyphen"/>feſſes, ſhould not incourage vicious worldlings to come into it, ſince a great many well diſpoſed Souls, ground their eſteem of a Church upon the number of good patterns, which that Church affords. So that it is the In<g ref="char:EOLhyphen"/>tereſt of thoſe that would bring their own perſwaſion into requeſt, to con<g ref="char:EOLhyphen"/>tribute what they are able, that Chriſt<g ref="char:EOLhyphen"/>ian Vertues might ſhine brighter in their Church than in any other,</p>
+            <p n="4">(4.) If people of differing perſwa<g ref="char:EOLhyphen"/>ſions fell into Company, they ſhould avoid all controverſie, the handling whereof ſeldom betters men, but often inflames animoſities. And moſt men do think it a leſſening of their own re<g ref="char:EOLhyphen"/>putation, and that of their maſters, if they ſhould yield one tittle of their Syſteme of Divinity. Whereas ſome have done good even upon men of a differing perſwaſion, by declining con<g ref="char:EOLhyphen"/>troverted points, and grounding their diſcourſe upon thoſe ſubjects, which as eſſential to ſalvation are owned by all partys, though put in execution by a very few of them,</p>
+            <p n="5">(5.) Thoſe few that know Chriſt really, <note n="(a)" place="bottom">1 Cor. I. 24.</note> as the Power of God in the faithfull, and feel by this knowledge <note n="(b)" place="bottom">Joh. XVII. 3.</note> eternal life in them, having at<g ref="char:EOLhyphen"/>tained to the bleſſed experience of <note n="(c)" place="bottom">1 Cor. VI. 17.</note> being one Spirit with Chriſt, may endeavor to get acquainted and ſettle a correſpondence with one another, though Providence hath placed them in different Provinces of the Lords Vi<g ref="char:EOLhyphen"/>neyard. Such a correſpondence would not only prove of comfort and incou<g ref="char:EOLhyphen"/>ragement to themſelves, but they might confer with one another about carry<g ref="char:EOLhyphen"/>ing on the common intereſt, againſt the Kingdom of darkneſs, that all along ſo miſerably deludes the Slaves of its Dominions, and thwarts the heirs of Gods Kingdom. In the mean while every one making it his main buſineſs to ſtrengthen the weak of his own perſwaſion, and to reſcue them from periſhing.</p>
+            <p>If the following of this method
+<pb n="4" facs="tcp:37742:3"/>ſhould by Gods bleſſing prove ſucceſs<g ref="char:EOLhyphen"/>full, and Chriſts meek, peaceable, hea<g ref="char:EOLhyphen"/>venly Spirit dethrone the haughty, broilſome, worldly ſpirit of Satan in moſt peoples minds, they would ſoon haſten to brotherly imbraces. But the turbulent oppoſers of Love and Union would be left to fret away by their ſo much beloved ſowrneſs.</p>
+            <div type="part">
+               <head>Macarius Homil. XXXII.</head>
+               <p>As the Sun inlightens the whole earth, ſo God is every where. If you look for him in heaven, there he is in the thoughts of the Angels. If you ſeek him on earth, there he is to be met with in the hearts of men. But of a great many there is but few ſuch Chriſt<g ref="char:EOLhyphen"/>ians as pleaſe him.</p>
+            </div>
+            <div type="part">
+               <head>Homil. V.</head>
+               <p>There is a great difference between real Chriſtians and the reſt of mankind. Real Chriſtians have their mind and underſtanding all wayes in a heavenly diſpoſition, eternall bleſſings are all wayes in their ſight by reaſon of the communion and participation of the holy Ghoſt. They are born of God from above; they are dignifyed to be Gods Children in Truth and Power; after much labour, ſweat and time, they are arrived at ſettledneſſe, ſteadineſſe, tranquillity and comfort, ceaſing to be ſifted and toſſed by fickle and vain thoughts; In this they are better and greater than the world, becauſe their mind and underſtanding reſts in the Peace of Chriſt, and the love of the holy Ghoſt; as the Lord ſpeaking of ſuch ſaith: They are paſt from death unto life. Wherefore the difference of Chriſtians (from the reſt of men) doth not conſiſt in form and outward appearance.</p>
+               <p>For by the renovation of the mind, by the tranquillity of the thoughts, by the Love of the Lord, and by a heavenly longing, differs the New Creature of Chriſtians, from all the men of the World.</p>
+            </div>
+            <div type="part">
+               <head>Homil. XXV.</head>
+               <p>We have not yet obtained the exulta<g ref="char:EOLhyphen"/>tion of Chriſts ſalvation, becauſe the ſting of death ſticks ſtill in us. We have not yet put on the new man, which is created after God in holyneſſe, becauſe we have not yet put of the old man corrupted according to the deſires of the Deceit. We do no yet wear the heaven<g ref="char:EOLhyphen"/>ly image, nor are made reſembling to the glory thereof; becauſe in our mor<g ref="char:EOLhyphen"/>tal body ſin bears the ſway ſtill. We have not yet beheld the glory of what is incorruptible, becauſe we are ſtill under a dark moonleſs night. We have not yet put on the armour of light, becauſe we have the weapons and works of darkneſſe ſtill about us. We are not yet transformed by the renova<g ref="char:EOLhyphen"/>tion of our mind, becauſe we continue in conformity to the world by the va<g ref="char:EOLhyphen"/>nity of our mind. We are not glorifyed with Chriſt, becauſe we do not ſuffer with him. We carry not his marks in our body about us, entered into the my<g ref="char:EOLhyphen"/>ſtery of the Croſs of Chriſt; for we are ſtill wedded to our carnal paſſions and luſts. We are not yet become Gods Heirs and Coheirs of Chriſt, becauſe the Spirit of Servitude and not of adoption reigns in us. We are not yet become a Temple of God and a habi<g ref="char:EOLhyphen"/>tation of the holy Ghoſt, becauſe we are ſtill a temple of Idols, and a lurk<g ref="char:EOLhyphen"/>ing place of wicked ſpirits, by the ſtrong bent of our Soul to paſſion.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:37742:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
